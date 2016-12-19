@@ -1,0 +1,92 @@
+/*
+	Overflow by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
+/* Reset */
+
+	*{
+		font-family: 'Lato', sans-serif;
+	}
+	html, body {
+		margin: 0;
+		padding: 0;
+		border: 0;
+		font-size: 100%;
+		font: inherit;
+		color:#333;
+	}
+
+	img {
+		max-width: 70%;
+		height: auto;
+}
+
+
+/* centering */
+
+
+
+	main {
+		position: relative;
+		margin-top:120px;
+    
+   }
+
+
+/*  contents  */
+
+
+
+	
+
+	.header {
+		position: relative;
+		margin-bottom: 40px !important:
+		padding-bottom: 40px !important;
+/*		border: 1px dotted red !important; */
+		background: #fff url(../img/line.png) bottom repeat-x;
+	}
+
+
+	h1.logo {
+/*		border: 1px dotted !important; */
+		display: block;
+		width:70%;
+		text-align:right;
+		margin:auto;
+
+	}
+	
+
+	
+	#content {
+		width:70%;
+		margin:0 auto;
+/*		border: 1px dotted blue !important; */
+		
+
+	}
+	
+	address{
+		font-style: normal;
+		font-size:16px;
+	}
+	
+	footer {
+		display:block;
+		margin:60px auto;
+		text-align:center;
+	}
+	
+	a, a:visited {
+		color: #666;
+		text-decoration:none;
+		border-bottom: #666 1px dotted !important;
+	}
+	
+	a:hover {
+		color: #ccc;
+	}
+	
